@@ -1,4 +1,4 @@
-package com.example.wereable_app
+package com.alanmartell.fluttermap-map
 
 import io.flutter.embedding.android.FlutterActivity
 

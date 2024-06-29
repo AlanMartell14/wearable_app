@@ -1,6 +1,6 @@
 {
-    "name": "wereable_app",
-    "short_name": "wereable_app",
+    "name": "flutter_map",
+    "short_name": "flutter_map",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
