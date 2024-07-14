@@ -1,4 +1,4 @@
-package com.alanmartell.fluttermap-map
+package com.example.gps
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_map/screens/login.dart';
+import 'package:gps/screens/login.dart';
 
 void main() => runApp(const MyApp());
 
