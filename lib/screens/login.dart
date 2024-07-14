@@ -73,8 +73,8 @@ class _LoginScreenState extends State<LoginScreen> {
                   width: double.infinity,
                   child: ElevatedButton(
                     onPressed: () {
-                      // Aquí iría la lógica de autenticación
-                      print('Login button pressed');
+                      // Navegar a HomePage después del login
+                      Navigator.pushReplacementNamed(context, '/home');
                     },
                     style: ElevatedButton.styleFrom(
                       padding: const EdgeInsets.symmetric(vertical: 16),
